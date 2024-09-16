@@ -1,0 +1,1 @@
+Doing new projects every week. Javascript, neural networks, and games.
